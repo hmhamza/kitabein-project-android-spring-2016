@@ -22,7 +22,7 @@ Not only buying and selling, people will be able to exchange books.
 ##### 7. Management of your Database on the server and accessing your online database from your android app (whenever internet access is available)
    - All the data (e.g. books and user profiles) will be stored online. When application start it look for data online and then store it locally for displaying. If internet is not available, it looks for data stored locally
 ##### 8. Professional and Attractive User Interface
-Pull-To-Refresh: Implement Pull-To-Refresh mechanism in your application where needed – Use of SwipeRefreshLayout
+   - Pull-To-Refresh: Implement Pull-To-Refresh mechanism in your application where needed – Use of SwipeRefreshLayout
 ##### 9. Bug-Sense Integration Maintain log of all the crashes/exceptions/errors using bug-sense.
-Your application should detect crashing/exception and gracefully terminate without showing a crashing dialog/message to user which leaves a bad impression.
+   - The application should detect crashing/exception and gracefully terminate without showing a crashing dialog/message to user which leaves a bad impression.
 ##### 10. Google Analytics Integrate Google Analytics with your application.
