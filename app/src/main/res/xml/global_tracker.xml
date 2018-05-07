@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+
+    <string name="ga_appName">HaZa Google Analytics App</string>
+
+    <string name="ga_appVersion">1.0</string>
+
+    <integer name="ga_dispatchPeriod">1800</integer>
+
+    <bool name="ga_dryRun">false</bool>
+</resources>

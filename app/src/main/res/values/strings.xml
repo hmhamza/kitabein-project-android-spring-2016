@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Kitabein</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_ad">ViewAd</string>
+
+    <string name="facebook_app_id"> <facebook_app_id> </string>
+
+    <string name="banner_ad_unit_id"> <banner_ad_unit_id> </string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_post_ad">PostAd</string>
+    <string name="title_activity_book_category">BookCategory</string>
+    <string name="title_activity_buy_form">BuyForm</string>
+
+    <string-array name="categories">
+        <item>Science fiction</item>
+        <item>Satire</item>
+        <item>Drama</item>
+        <item>Action and Adventure</item>
+        <item>Romance</item>
+        <item>Mystery</item>
+        <item>Horror</item>
+        <item>Self help</item>
+        <item>Health</item>
+        <item>Guide</item>
+        <item>Travel</item>
+        <item>Children</item>
+        <item>Religion</item>
+        <item>Spirituality</item>
+        <item>Science</item>
+        <item>History</item>
+        <item>Math</item>
+        <item>Anthology</item>
+        <item>Poetry</item>
+        <item>Encyclopedias</item>
+        <item>Dictionaries</item>
+        <item>Comics</item>
+        <item>Art</item>
+        <item>Cookbooks</item>
+        <item>Diaries</item>
+        <item>Journals</item>
+        <item>Prayer books</item>
+        <item>Series</item>
+        <item>Trilogy</item>
+        <item>Biographies</item>
+        <item>utobiographies</item>
+        <item>Fantasy</item>
+    </string-array>
+    <string name="title_activity_sell_form">SellForm</string>
+    <string name="title_activity_exchange_form">ExchangeForm</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_view_ad__buy__sell">ViewAd_Buy_Sell</string>
+
+
+</resources>
